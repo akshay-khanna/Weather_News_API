@@ -7,6 +7,8 @@ The Application sample provides weather info for all users.
 
 The news endpoint is authenticated.
 
+Login Signup and Logout functionality are implemented as well with mongodb as database to store user details.
+
 # API Reference
 
 
